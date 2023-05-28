@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Crab
+comment1.params=num
+comment1.target=void\ eat(int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=num
+comment2.target=void\ moveAndTurn(int)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
